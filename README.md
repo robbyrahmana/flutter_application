@@ -9,7 +9,7 @@
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|[<img width="188" height="313" src="https://github.com/robbyrahmana/flutter_application/blob/master/assets/ui_challenges/flutter_application_ecommerce.gif">](https://github.com/robbyrahmana/flutter_application/tree/master/UI%20Challenges/flutter_application_ecommerce)|
+|[<img width="188" height="313" src="https://github.com/robbyrahmana/flutter_application/blob/master/assets/ui_challenges/flutter_application_ecommerce.gif">](https://github.com/robbyrahmana/flutter_application/tree/master/ui_challenges/flutter_application_ecommerce)|[<img width="188" height="313" src="https://github.com/robbyrahmana/flutter_application/blob/master/assets/ui_challenges/freelancer_profile.gif">](https://github.com/robbyrahmana/flutter_application/tree/master/ui_challenges/freelancer_profile)
 
 ## Author
 
